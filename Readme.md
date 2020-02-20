@@ -3,7 +3,7 @@
 ## Links
 - [Nosso canal do Youtube]()
 - [Planilha de Notas](https://docs.google.com/spreadsheets/d/1G1RL1_KoDXlvtZZvF3H3j9v5dyktDB22hTdsJfbcdH4/edit?usp=sharing)
-- [Pranilha de Flequência](https://docs.google.com/spreadsheets/d/19cxk6BR4jhmrHZonlRA8yLRyh0HL7wZqfZ6ph2VWzcU/edit?usp=sharing)
+- [Planilha de Frequência](https://docs.google.com/spreadsheets/d/19cxk6BR4jhmrHZonlRA8yLRyh0HL7wZqfZ6ph2VWzcU/edit?usp=sharing)
 
 
 ## Recursos Java
@@ -15,7 +15,7 @@
 ## Recursos Git
 - [Guia Rápido](https://rogerdudler.github.io/git-guide/index.pt_BR.html)
 - [Git book](https://pt.wikiversity.org/wiki/Git_B%C3%A1sico)
-- [Vídeo Aulas]("https://www.youtube.com/playlist?list=PLInBAd9OZCzzHBJjLFZzRl6DgUmOeG3H0") Assista dos vídeos de 1 até o 4.
+- [Vídeo Aulas](https://www.youtube.com/playlist?list=PLInBAd9OZCzzHBJjLFZzRl6DgUmOeG3H0) Assista dos vídeos de 1 até o 4.
 
 ## S01E01 - Boas Vindas
 - [ ] Leia a apostila. Capítulo 1, 2 e 3.
