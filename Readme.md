@@ -38,8 +38,9 @@
 - [ ] No seu repositório crie o **Projeto 01**
     - Insira os primeiros códigos que for criando para se acostumar à disciplina
 
-## S01E02 - Prática de git
-- [ ] Clone esse repositório da disciplina
-- [ ] Criar seu repositório no github
-- [ ] Treine os comandos básicos de alteração e envio
-- [ ] Praticar!
+## S02E01 - Carro
+- [ ] Fazer seu primeiro projeto à semelhança do carro
+    - crie pelo menos 3 atributos
+    - crie pelo menos 3 métodos que alterem as variáveis
+    - faça um código interativo no modelo apresentado em sala
+    - faça upload do projeto para o seu github
