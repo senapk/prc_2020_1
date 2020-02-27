@@ -17,6 +17,7 @@
 ## Recursos C++
 - [Material de Leitura](https://www.learncpp.com/)
 - [Video Aulas](https://www.youtube.com/playlist?list=PLx4x_zx8csUjczg1qPHavU1vw1IkBcm40)
+- IDE: CLION, vscode, QTCreator, codeblocks 
 
 ## Recursos Git
 - [Guia Rápido](https://rogerdudler.github.io/git-guide/index.pt_BR.html)
