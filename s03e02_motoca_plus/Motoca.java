@@ -4,7 +4,6 @@ import java.util.Scanner;
 class Pessoa {
     String nome;
     int idade;
-
     public Pessoa(String nome, int idade){ //nao eh metodo, eh invocado automaticaticamente na criacao
         this.nome = nome;
         this.idade = idade;
@@ -15,7 +14,6 @@ public class Motoca {
 	Pessoa pessoa; //agregacao
 
 	public Motoca(){
-			
 	}
 	
 	void embarcar(Pessoa pessoa) {
@@ -40,7 +38,7 @@ public class Motoca {
 		else if(this.pessoa.idade > 10)
 			System.out.println("Muito grande pra andar de moto");
 		else
-			System.out.println(this.pessoa.nome + ": Run Run Run...");
+			System.out.println(this.pessoa.nome + ": Run...");
 	}
 
 
