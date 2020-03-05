@@ -11,7 +11,7 @@ class Pessoa {
 }
 
 public class Motoca {
-	Pessoa pessoa; //agregacao
+	Pessoa pessoa;
 
 	public Motoca(){
 	}
@@ -44,12 +44,12 @@ public class Motoca {
 
 	public static void main(String[] args) {
 		Pessoa davi = new Pessoa("Davi", 10);
-
-		Motoca moto = new Motoca();
-		moto.embarcar(davi);
-		moto.dirigir();
-		moto.desembarcar();
-
+		{
+			Motoca moto = new Motoca();
+			moto.embarcar(davi);
+			moto.dirigir();
+			moto.desembarcar();
+		}
 		Motoca moto2 = new Motoca();
 		moto2.embarcar(davi);
 		moto2.dirigir();
