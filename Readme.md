@@ -44,3 +44,6 @@
     - crie pelo menos 3 métodos que alterem as variáveis
     - faça um código interativo no modelo apresentado em sala
     - faça upload do projeto para o seu github
+
+## S03E01
+- [ ] Java: Refazer a moto em java
