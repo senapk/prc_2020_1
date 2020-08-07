@@ -5,6 +5,12 @@
     - Modifique o barulho do motor ao dirigir, mudar com a potência
     - o número de run equivale à potência da moto
     - potencia 1: run, potencia == 2, run run, potencia == 3 run run run
+    - modifique a main para o comando `init potencia` criar uma nova moto
+init 2
+embarcar fulano 5
+dirigir
+    run run
+
 2. Criar o atributo int tempo na moto e o atributo tempo no dirigir
     - ao embarcar, o tempo da moto muda pra 0, o que equivale a 0 minutos de tempo da criança
     - crie o método pagar(int), que aumenta o tempo da criança
