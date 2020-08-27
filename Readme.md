@@ -21,6 +21,7 @@
 - [29/07/2020 - C++: Sala de Cinema](https://drive.google.com/file/d/1dxvheoOopIm5NQwhurGFOL11R_zH-3lv/view?usp=sharing)
 - [05/08/2020 - Template, Sobrecarga e Mapas](https://drive.google.com/file/d/1F4SofBC89IC6lEGN8se4Agbsn1x3u7my/view?usp=sharing)
 - [12/08/2020 - Agenda 1](https://drive.google.com/file/d/1XDrbCjfSwLTtdCjPfKa58abPPAoq7z8g/view?usp=sharing)
+- [26/08/2020 - Favoritos](https://drive.google.com/file/d/1BddFUbw_luQaZzBs99eXyHRW1ZTEVNTe/view?usp=sharing)
 
 ## Pastas de Trabalhos
 
