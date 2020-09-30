@@ -14,6 +14,27 @@
 
 <!--TOC_END-->
 
+## Projetos do Semestre
+- Carro (casa)
+- Lapiseira (casa)
+- Motoca (classe)
+- Tamagotchi (casa)
+- Mestre dos Vetores (opcional)
+- Pula Pula (casa)
+- Sala de Cinema (classe)
+- Junkfood (casa)
+- Agenda 1 (classe)
+- Agência 1 (extra)
+- Agenda 2 (casa)
+- Agiota (classe)
+- Agenda 3 (casa)
+- Matrícula (classe)
+- Agência 2(casa) OU Salário(casa) -> herança
+- Twitter (casa) OU Whatsapp 1 -> lógica
+- Hospital (classe)
+- Whatsapp 2(extra)
+
+
 ## Vídeos
 - [02/07/2020 - POO - Aula Treino](https://drive.google.com/file/d/1DO2fOLhuE2yEqfxRqHKCXHE5DgH-GLP_/view?usp=sharing)
 - [16/07/2020 - Pula Pula 1](https://drive.google.com/file/d/1_5590VQHnE3ltm-3MBC0oPZmkCLcAcTZ/view?usp=sharing)

@@ -65,16 +65,6 @@ ostream& operator<<(ostream& os, Disciplina& disciplina){
     return os;
 }
 
-enum DATA_ACCESS_ERROR {NOT_FOUND, }
-
-DATA_ACCESS_ERROR acesso_ao_banco(int x, int y, int * result){
-    if(y == 0){
-        return false;
-    }
-    *result = x / y;
-    return true;
-}
-
 template <class T>
 T& get(map<string, T>& mapa, string key){
     if(mapa.count(key) == 0)
@@ -104,7 +94,8 @@ public:
         alunos[nome] = Aluno(nome);
     }
     void matricular(string idDisciplina, string idAluno){
-        get(disciplinas, idDisciplina)->add_aluno(&at(idAluno));
+        get(disciplinas, idDisciplina)
+        ->add_aluno(&alunos.at(idAluno));
     }
     friend ostream& operator<<(ostream& os, UFC& ufc){
         os << "alunos:\n";
